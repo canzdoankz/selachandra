@@ -152,8 +152,8 @@
             
               <ul style="text-align: center;" data-aos="zoom-in-down" data-aos-duration="1000">
                 <li><div class="pt-2" style="color:#bb7944">LIVE STREAMING</div></li>
-                <li><span class="pl-2 text-muted">Chandra & Sela personal Instagram </span></li>
-                <li class="pt-2"><a class="btn btn-link pl-2 text-muted" target="_blank" href="https://www.instagram.com/valeriagisela/">Join Here</a></li>
+                <li><span class="pl-2 text-muted"> Youtube Live Streaming Link </span></li>
+                <li class="pt-2"><a class="btn btn-link pl-2 text-muted" target="_blank" href="https://www.youtube.com/watch?v=6W4rENeOX50">Join Here</a></li>
               </ul>
             
         </div>
