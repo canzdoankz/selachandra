@@ -132,7 +132,7 @@
               <ul style="text-align: center;" data-aos="zoom-in-down" data-aos-duration="1000">
                 <li><div class="pt-2" style="color:#bb7944">HOLY MATRIMONY</div></li>
                 <li><a class="pl-2 text-muted btn btn-link" target="_blank" href="https://www.google.com/maps/dir//GEREJA+SANTO+PETRUS+KRISOLOGUS+BSB/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x2e708a76dc89f07d:0x413acbeaf2fc0bb9?sa=X&ved=2ahUKEwivyp_RpdHyAhWQfH0KHfRdCn0Q9RcwDXoECEwQBA">St. Peter Chrysologus Catholic Church, BSB, Semarang</a></li>
-                <li class="pt-2"><span class="pl-2 text-muted"> 10:00AM - 10:30PM</span></li>
+                <li class="pt-2"><span class="pl-2 text-muted"> 10:00AM - 10:30AM</span></li>
               </ul>
           </div>
         </div>
